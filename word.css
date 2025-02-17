@@ -1,0 +1,23 @@
+.page{
+    display: flex;
+    text-align: center;
+}
+.element1{
+    width: 30%; 
+
+}
+
+.element2{
+    width:30%; 
+    border: 2px solid #273340;
+    padding: 5px;
+    height: 20px;  
+}
+.element3{
+    width: 30%;
+    padding-top: 5px;
+    padding: 5px;
+    border: 2px solid #273340;
+    height: 33px; 
+    
+}
